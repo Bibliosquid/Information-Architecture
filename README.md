@@ -1,6 +1,6 @@
 ### About the Information Architecture Repository 👋
 
-This repository contains a collection of samples focused on information architectural elements and end-user focused work. Thank you for reading! Please check my [Linkedin profile](https://www.linkedin.com/in/shelley-carr-squid) to learn more about my qualifications. This page is made using Markdown with elements of CSS and HTML.
+Welcome to my Portfolio! This repository contains a collection of samples focused on information architectural elements and end-user focused work. Thank you for reading! Please check my [Linkedin profile](https://www.linkedin.com/in/shelley-carr-squid) to learn more about my qualifications. This page is made using Markdown with elements of CSS and HTML.
 
 I also have an technical writing portfolio with a repository, please check that out [here.](https://github.com/Bibliosquid/bibliosquid)
 <!--
